@@ -78,4 +78,4 @@
 </ul>
 
 <h2></h2>
-<footer>&copy;2024 gentle okhai</footer>"# Django_log_reg" 
+<footer>&copy;2024 gentle okhai</footer>
